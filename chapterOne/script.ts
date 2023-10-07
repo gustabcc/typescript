@@ -1,5 +1,5 @@
 const input = document.querySelector("input");
-
+//teste
 // Calcula o ganho total com base no valor fornecido
 function calculaGanho(value: number) {
     const paragraph = document.querySelector("p");
